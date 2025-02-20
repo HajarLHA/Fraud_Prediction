@@ -1,3 +1,7 @@
+from sklearn.metrics import confusion_matri, roc_auc_score, roc_curve
+import matplotlib.pyplot as plt
+from sklearn import metrics
+import seaborn as sns
 def plot_confusion_matrix(y_true, y_pred, model_name="Model"):
     """
     Plot the confusion matrix for classification tasks.
