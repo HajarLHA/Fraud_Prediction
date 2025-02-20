@@ -1,0 +1,100 @@
+{
+    "KNN WITH RANDOM PARAMETRES": {
+        "Accuracy": 0.94,
+        "Precision": 0.95,
+        "Recall": 0.93,
+        "F1-Score": 0.94,
+        "AUC": 0.94
+    },
+    "KNN WITH GRID SEARCH": {
+        "Accuracy": 0.95,
+        "Precision": 0.95,
+        "Recall": 0.94,
+        "F1-Score": 0.95,
+        "AUC": 0.95
+    },
+    "KNN WITH FEATURE SELECTION": {
+        "Accuracy": 0.97,
+        "Precision": 0.96,
+        "Recall": 0.98,
+        "F1-Score": 0.97,
+        "AUC": 0.97
+    },
+    "LogisticRegression WITH RANDOM PARAMETRES": {
+        "Accuracy": 0.92,
+        "Precision": 0.93,
+        "Recall": 0.91,
+        "F1-Score": 0.92,
+        "AUC": 0.93
+    },
+    "LogisticRegression WITH GRID SEARCH": {
+        "Accuracy": 0.94,
+        "Precision": 0.95,
+        "Recall": 0.94,
+        "F1-Score": 0.94,
+        "AUC": 0.94
+    },
+    "LogisticRegression WITH FEATURE SELECTION": {
+        "Accuracy": 0.92,
+        "Precision": 0.94,
+        "Recall": 0.91,
+        "F1-Score": 0.92,
+        "AUC": 0.92
+    },
+
+    "DECISIONTREE WITH RANDOM PARAMETRES": {
+        "Accuracy": 0.90,
+        "Precision": 0.95,
+        "Recall": 0.95,
+        "F1-Score": 0.89,
+        "AUC": 0.90
+    },
+    "DECISIONTREE WITH GRID SEARCH": {
+        "Accuracy": 0.97,
+        "Precision": 0.96,
+        "Recall": 0.99,
+        "F1-Score": 0.98,
+        "AUC": 0.97
+    },
+
+
+    "RANDOMFOREST WITH RANDOM PARAMETRES": {
+        "Accuracy": 0.99,
+        "Precision": 0.99,
+        "Recall": 0.99,
+        "F1-Score": 0.99,
+        "AUC": 0.99
+    },
+    "RANDOMFOREST WITH GRID SEARCH": {
+        "Accuracy": 0.99,
+        "Precision": 0.99,
+        "Recall": 0.99,
+        "F1-Score": 0.99,
+        "AUC": 0.99
+    },
+
+    "SVM WITH RANDOM PARAMETRES": {
+        "Accuracy": 0.91,
+        "Precision": 0.96,
+        "Recall": 0.87,
+        "F1-Score": 0.91,
+        "AUC": 0.91
+    },
+    "SVM WITH GRID SEARCH": {
+        "Accuracy": 0.98,
+        "Precision": 0.96,
+        "Recall": 0.99,
+        "F1-Score": 0.98,
+        "AUC": 0.98
+    },
+    "SVM WITH FEATURE SELECTION": {
+        "Accuracy": 0.92,
+        "Precision": 0.95,
+        "Recall": 0.90,
+        "F1-Score": 0.92,
+        "AUC": 0.92
+    }
+    
+
+    
+}
